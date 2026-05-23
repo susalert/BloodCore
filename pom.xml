@@ -38,8 +38,6 @@
             <groupId>com.projectkorra</groupId>
             <artifactId>ProjectKorra</artifactId>
             <version>1.12.0</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/ProjectKorra-1.12.0.jar</systemPath>
         </dependency>
     </dependencies>
 </project>
