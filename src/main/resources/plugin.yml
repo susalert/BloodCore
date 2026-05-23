@@ -1,0 +1,7 @@
+name: BloodCore
+version: 1.0.0
+main: me.susalert.bloodcore.BloodCore
+api-version: '1.21'
+depend: [ProjectKorra]
+authors: [susalert]
+description: A universal utility API framework for ProjectKorra addons.
